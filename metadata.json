@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SplitBhai",
+  "description": "A smart expense sharing app that understands simple language and scans bills to split expenses among friends seamlessly using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
